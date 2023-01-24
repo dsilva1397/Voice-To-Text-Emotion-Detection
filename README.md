@@ -1,9 +1,14 @@
 # Natural-Language-Processing
 2 Simple NLP Learning Projects
 
-## Sentiment Analysis.
+## Sentiment Analysis and Voice to Emotion Detection
 
+* Sentiment Analysis.
 This project predicts the gender of the author of a Blof Post. This is a part of My NLP(Natural Language Processing) Study.
+
+* Voice to Emotion Detection
+This project takes an input from the users microphone that can be 6-12 seconds long, converts the speech to text and predicts the sentiment of the speaker.
+
 
 1. Pandas- Data Manipulation
 2. Numpy- Numerical Operations
